@@ -1,8 +1,10 @@
-package com.if4b.aplikasiquote;
+package com.if4b.aplikasiquote.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.if4b.aplikasiquote.R;
 
 public class MainActivity extends AppCompatActivity {
 
